@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_recomendations"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Рекомендации" />
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Поиск" />
+
+    <item
+        android:id="@+id/navigation_course"
+        android:icon="@drawable/ic_play_circle_outline_black_24dp"
+        android:title="Мои курсы" />
+
+    <item
+        android:id="@+id/navigation_favourite"
+        android:icon="@drawable/ic_favorite_border_black_24dp"
+        android:title="Желания" />
+
+    <item
+        android:id="@+id/navigation_user"
+        android:icon="@drawable/ic_person_outline_black_24dp"
+        android:title="УЗ" />
+
+</menu>
